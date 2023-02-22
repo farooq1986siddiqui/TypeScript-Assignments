@@ -3,4 +3,4 @@
 // change latter case of name in upper case
 let myName = "farooq ahmad siddiqui"
 console.log(myName.toUpperCase());
- 
+ // here i have mentioned comments 
